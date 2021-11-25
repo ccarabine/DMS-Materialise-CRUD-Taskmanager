@@ -7,3 +7,17 @@ body {
 main {
     flex: 1 0 auto;
 }
+div.modal-content {
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+.modal-warning {
+    text-align: center;
+    color:red;
+}
+
+a.btn {
+    
+}
